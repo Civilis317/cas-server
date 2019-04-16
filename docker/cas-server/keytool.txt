@@ -1,0 +1,5 @@
+keytool -import -file C:\cascerts\firstCA.cert -alias firstCA -keystore myTrustStore
+
+keytool -import -alias cas-cert -file cas-certificate.crt -keystore trustStore.jks
+
+keytool -export -alias thekeystore -file cas-certificate.crt -keystore thekeystore
