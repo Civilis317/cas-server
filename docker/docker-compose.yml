@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+
+  cas-service:
+    image: "317/cas53:1.0"
+    container_name: "cas-server"
+    ports:
+    - 6443:6443

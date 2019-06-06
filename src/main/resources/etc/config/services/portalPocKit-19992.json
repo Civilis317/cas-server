@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://localhost:9080/cas-client/login/cas",
+  "name" : "Portal POC KIT application",
+  "description": "Portal POC KIT application",
+  "id" : 19992,
+  "evaluationOrder" : 1
+}

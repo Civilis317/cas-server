@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://localhost:9090/portal/login/cas",
+  "name" : "Portal POC Menu application",
+  "description": "Portal POC Menu application",
+  "id" : 19993,
+  "evaluationOrder" : 1
+}

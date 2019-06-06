@@ -1,3 +1,0 @@
-casuser::welcome1
-admin::welcome1
-lie::boip

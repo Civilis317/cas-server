@@ -27,3 +27,8 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### CAS ###
+/overlays/
+/build/
+/docker/cas.war
