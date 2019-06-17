@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://localhost:9094/order-service/login/cas",
+  "name" : "Order Service",
+  "description": "Maintenance of orders",
+  "id" : 20010,
+  "evaluationOrder" : 1
+}
